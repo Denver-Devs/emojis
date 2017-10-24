@@ -3,7 +3,7 @@ A collection of our emojis that we've gathered up from different sources / creat
 
 # emoji parade 
 ![0.png](the_goods/0.png ":0:")
-![14er.png](the_goods/a14er.png ":14er:")
+![14er.png](the_goods/14er.png ":14er:")
 ![1up.png](the_goods/1up.png ":1up:")
 ![813.png](the_goods/813.png ":813:")
 ![a2.png](the_goods/a2.png ":a2:")
