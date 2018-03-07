@@ -1,3 +1,5 @@
+> Missing an emoji you know exists on DD? It's probably because Dan is being lazy again. Open an issue on this repo or ping the #topic-emoji channel and :shame: Dan into updating it. 
+
 # emojis
 A collection of our emojis that we've gathered up from different sources / created over time. 
 
