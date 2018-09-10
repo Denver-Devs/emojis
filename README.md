@@ -6,7 +6,6 @@ A collection of our emojis that we've gathered up from different sources / creat
 
 ### And here's the parade
 ---
-![.keep](the_goods//.keep "::")
 ![0.png](the_goods//0.png ":0:")
 ![1000.jpg](the_goods//1000.jpg ":1000:")
 ![14er.png](the_goods//14er.png ":14er:")
