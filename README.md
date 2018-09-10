@@ -1,11 +1,8 @@
 
 > Missing an emoji you know exists on DD? It's probably because Dan is being lazy again. Open an issue on this repo or ping the #topic-emoji channel and :shame: Dan into updating it. 
-> This thing also updates every week / month or so. So being patient will get it up there too 🍃
 
 # emojis
 A collection of our emojis that we've gathered up from different sources / created over time. 
-
-Based on the wonderful work done by phil-r here: [https://github.com/phil-r/slack-emoji](phil-r/slack-emoji) 
 
 ### And here's the parade
 ---
